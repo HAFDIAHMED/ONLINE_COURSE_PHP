@@ -1,7 +1,7 @@
 # ONLINE_COURSE_PHP
 
 Installation Steps(Configuration)
-Authors : AHMED HAFDI @https://github.com/HAFDIAHMED
+Authors : AHMED HAFDI 
 
 1. Download and Unzip file on your local system.
 2. Put this file inside root directory
